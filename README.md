@@ -1,9 +1,9 @@
-# Adidas Sales Analysis | Power BI Dashboard
+ # Adidas Sales Analysis | Power BI Dashboard
 
 An interactive, high-contrast dark-themed data analytics dashboard designed to analyze Adidas retail sales performance, regional revenue distribution, sales methods, and operating profits.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](./Adidas_Sales.png)
+![Dashboard Preview](https://raw.githubusercontent.com/mohammadsaifulva-web/adidas_sales_data/main/Adidas_Sales.png)
 
 ## 🚀 Project Overview
 This project provides deep business insights into global retail operations:
